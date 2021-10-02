@@ -1,0 +1,684 @@
+{
+    "skus": [
+        {
+            "code": "345249",
+            "title": "Подгузники детские 365 ДНЕЙ Maxi 8–18кг, 20шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 20 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/52/49/189374.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 192.69,
+                "integerPart": "192",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 182.99,
+                "integerPart": "182",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguzniki-365-dnejj-maksi-818kg-rossiya-20sht-345249/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-11T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 3.2,
+            "commentsCount": 5,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "345248",
+            "title": "Подгузники детские 365 ДНЕЙ Midi 4–9кг, 22шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Чехия, 22 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/52/48/189373_1.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 199.69,
+                "integerPart": "199",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 189.69,
+                "integerPart": "189",
+                "fractionPart": "69"
+            },
+            "skuUrl": "/product/podguzniki-365-dnejj-midi-49kg-chehiya-22sht-345248/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 3.8,
+            "commentsCount": 4,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 2,
+            "stockValue": "enough",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "345250",
+            "title": "Подгузники детские 365 ДНЕЙ Junior 15–25кг, 18шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 18 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/52/50/189378_1.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 208.49,
+                "integerPart": "208",
+                "fractionPart": "49"
+            },
+            "cardPrice": {
+                "value": 197.99,
+                "integerPart": "197",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguzniki-365-dnejj-dzhunior-1525kg-rossiya-18sht-345250/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 3.0,
+            "commentsCount": 1,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "344489",
+            "title": "Подгузники-трусики детские 365 ДНЕЙ Maxi 8–13кг, 18шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 18 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/44/89/232920.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 272.69,
+                "integerPart": "272",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 258.99,
+                "integerPart": "258",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguznikitrusiki-365-dnejj-maxi-813kg-rossiya-18sht-344489/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-11T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.0,
+            "commentsCount": 4,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 2,
+            "stockValue": "enough",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "344490",
+            "title": "Подгузники-трусики детские 365 ДНЕЙ Junior 12–18кг, 17шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 17 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/44/90/159794.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 272.69,
+                "integerPart": "272",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 258.99,
+                "integerPart": "258",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguznikitrusiki-365-dnejj-junior-1218kg-rossiya-17sht-344490/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.5,
+            "commentsCount": 10,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "344492",
+            "title": "Подгузники-трусики детские 365 ДНЕЙ XL 16+кг, 16шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 16 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/44/92/275566.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 272.69,
+                "integerPart": "272",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 258.99,
+                "integerPart": "258",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguznikitrusiki-365-dnejj-xl-16kg-rossiya-16sht-344492/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.0,
+            "commentsCount": 1,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "117104",
+            "title": "Подгузники детские 365 ДНЕЙ Junior 15–25кг, 56шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 56 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/11/71/04/194467.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 526.39,
+                "integerPart": "526",
+                "fractionPart": "39"
+            },
+            "cardPrice": {
+                "value": 499.99,
+                "integerPart": "499",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguzniki-365-dnejj-dzhunior-1525kg-rossiya-56sht-117104/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.7,
+            "commentsCount": 12,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "117102",
+            "title": "Подгузники детские 365 ДНЕЙ Midi 4–9кг, 72шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 72 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/11/71/02/194267_1.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 526.39,
+                "integerPart": "526",
+                "fractionPart": "39"
+            },
+            "cardPrice": {
+                "value": 499.99,
+                "integerPart": "499",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguzniki-365-dnejj-midi-49kg-rossiya-72sht-117102/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-11T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.2,
+            "commentsCount": 13,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 2,
+            "stockValue": "enough",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "117103",
+            "title": "Подгузники детские 365 ДНЕЙ Maxi 8–18кг, 64шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 64 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/11/71/03/194466.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 526.39,
+                "integerPart": "526",
+                "fractionPart": "39"
+            },
+            "cardPrice": {
+                "value": 499.99,
+                "integerPart": "499",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguzniki-365-dnejj-maksi-818kg-rossiya-64sht-117103/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.6,
+            "commentsCount": 5,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "277940",
+            "title": "Подгузники-трусики детские 365 ДНЕЙ XL 16+кг, 40шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 40 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/27/79/40/45817.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 631.59,
+                "integerPart": "631",
+                "fractionPart": "59"
+            },
+            "cardPrice": {
+                "value": 599.99,
+                "integerPart": "599",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguznikitrusiki-365-dnejj-xl-16kg-rossiya-40sht-277940/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "2020-12-15T23:00:00Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.6,
+            "commentsCount": 9,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "254357",
+            "title": "Подгузники-трусики детские 365 ДНЕЙ Maxi 8–13кг, 48шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 48 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/25/43/57/121401.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 631.59,
+                "integerPart": "631",
+                "fractionPart": "59"
+            },
+            "cardPrice": {
+                "value": 599.99,
+                "integerPart": "599",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguznikitrusiki-365-dnejj-maxi-813kg-rossiya-48sht-254357/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "2020-12-15T23:00:00Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.2,
+            "commentsCount": 12,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        },
+        {
+            "code": "254498",
+            "title": "Подгузники-трусики детские 365 ДНЕЙ Junior 12–18кг, 44шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 44 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/25/44/98/159802.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 631.59,
+                "integerPart": "631",
+                "fractionPart": "59"
+            },
+            "cardPrice": {
+                "value": 599.99,
+                "integerPart": "599",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/podguznikitrusiki-365-dnejj-junior-1218kg-rossiya-44sht-254498/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-05T02:00:00Z",
+            "promoEnd": "2020-12-15T23:00:00Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 3.4,
+            "commentsCount": 32,
+            "gaCategory": "Товары для детей/Детская гигиена/Подгузники",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Subcategory",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s5b9a44a2317b210b305c56b8456d9718"
+        }
+    ],
+    "limit": 20,
+    "offset": 0,
+    "totalCount": 12,
+    "seoNode": {
+        "h1Title": "Подгузники: 365 ДНЕЙ, ",
+        "title": "Подгузники: 365 ДНЕЙ,  – купить в сети магазинов Лента.",
+        "description": "Подгузники: 365 ДНЕЙ,   – официальный каталог товаров сети магазинов Лента. Каталог товаров с ценами, информацией о скидках. Собрать список покупок с актуальными ценами.",
+        "keywords": "– Лента гипермаркет,адреса магазинов,информация о скидках,каталог товаров с ценами,продажа,продукт,питание,косметика,одежда,обувь,канцтовары",
+        "xhtmlText": null,
+        "shortXhtmlText": null
+    },
+    "pricesRange": {
+        "minPrice": 182,
+        "maxPrice": 3100
+    },
+    "filters": [
+        {
+            "isHidden": false,
+            "filterName": "BrandName",
+            "filterTranslatedName": "Бренд",
+            "filterValues": [
+                {
+                    "value": "365 ДНЕЙ",
+                    "transliteratedValue": "365-dnejj",
+                    "label": "365 ДНЕЙ",
+                    "count": 12
+                },
+                {
+                    "value": "ELIBELL",
+                    "transliteratedValue": "elibell",
+                    "label": "ELIBELL",
+                    "count": 3
+                },
+                {
+                    "value": "HUGGIES",
+                    "transliteratedValue": "huggies",
+                    "label": "HUGGIES",
+                    "count": 53
+                },
+                {
+                    "value": "LITTLE TIMES",
+                    "transliteratedValue": "little-times",
+                    "label": "LITTLE TIMES",
+                    "count": 14
+                },
+                {
+                    "value": "MERRIES",
+                    "transliteratedValue": "merries",
+                    "label": "MERRIES",
+                    "count": 13
+                },
+                {
+                    "value": "MOONY",
+                    "transliteratedValue": "moony",
+                    "label": "MOONY",
+                    "count": 10
+                },
+                {
+                    "value": "PAMPERS",
+                    "transliteratedValue": "pampers",
+                    "label": "PAMPERS",
+                    "count": 68
+                },
+                {
+                    "value": "СОЛНЦЕ И ЛУНА",
+                    "transliteratedValue": "solnce-i-luna",
+                    "label": "СОЛНЦЕ И ЛУНА",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "isHidden": false,
+            "filterName": "Producer",
+            "filterTranslatedName": "Производитель",
+            "filterValues": [
+                {
+                    "value": "Kao Corporation",
+                    "transliteratedValue": "kao-corporation",
+                    "label": "Kao Corporation",
+                    "count": 0
+                },
+                {
+                    "value": "MEGA SOFT (CHINA) CO., LTD",
+                    "transliteratedValue": "mega-soft-china-co-ltd",
+                    "label": "MEGA SOFT (CHINA) CO., LTD",
+                    "count": 0
+                },
+                {
+                    "value": "Unicharm Corporation",
+                    "transliteratedValue": "unicharm-corporation",
+                    "label": "Unicharm Corporation",
+                    "count": 0
+                },
+                {
+                    "value": "Кимберли-Кларк ООО",
+                    "transliteratedValue": "kimberli-klark-ooo",
+                    "label": "Кимберли-Кларк ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Онтэкс РУ ООО",
+                    "transliteratedValue": "onteks-ru-ooo",
+                    "label": "Онтэкс РУ ООО",
+                    "count": 9
+                },
+                {
+                    "value": "Проктер энд Гэмбл ООО",
+                    "transliteratedValue": "prokter-end-gembl-ooo",
+                    "label": "Проктер энд Гэмбл ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Северная Жемчужина",
+                    "transliteratedValue": "severnaya-zhemchuzhina",
+                    "label": "Северная Жемчужина",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "isHidden": false,
+            "filterName": "ProducersCountry",
+            "filterTranslatedName": "Страна производителя",
+            "filterValues": [
+                {
+                    "value": "Египет",
+                    "transliteratedValue": "egipet",
+                    "label": "Египет",
+                    "count": 0
+                },
+                {
+                    "value": "Китай",
+                    "transliteratedValue": "kitajj",
+                    "label": "Китай",
+                    "count": 0
+                },
+                {
+                    "value": "Польша",
+                    "transliteratedValue": "polsha",
+                    "label": "Польша",
+                    "count": 0
+                },
+                {
+                    "value": "Россия",
+                    "transliteratedValue": "rossiya",
+                    "label": "Россия",
+                    "count": 11
+                },
+                {
+                    "value": "Чехия",
+                    "transliteratedValue": "chehiya",
+                    "label": "Чехия",
+                    "count": 1
+                },
+                {
+                    "value": "Япония",
+                    "transliteratedValue": "yaponiya",
+                    "label": "Япония",
+                    "count": 0
+                }
+            ]
+        }
+    ]
+}

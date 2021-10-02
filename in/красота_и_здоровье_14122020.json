@@ -1,0 +1,1046 @@
+{
+    "skus": [
+        {
+            "code": "374611",
+            "title": "Прокладки ежедневные гигиенические 365 ДНЕЙ впитывающие, 20шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 20 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/37/46/11/250416.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 14.79,
+                "integerPart": "14",
+                "fractionPart": "79"
+            },
+            "cardPrice": {
+                "value": 13.99,
+                "integerPart": "13",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/prokladki-365-dnejj-ezhednevnye-zhenskie-gigienicheskie-vpityvayushchie-rossiya-20sht-374611/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-11T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 5.0,
+            "commentsCount": 4,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "380149",
+            "title": "Прокладки гигиенические 365 ДНЕЙ впитывающие, в индивидуальных пакетиках, 8шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Россия, 8 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/38/01/49/250417.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 20.99,
+                "integerPart": "20",
+                "fractionPart": "99"
+            },
+            "cardPrice": {
+                "value": 19.89,
+                "integerPart": "19",
+                "fractionPart": "89"
+            },
+            "skuUrl": "/product/prokladki-365-dnejj-gigienich-vpit-v-ind-paketikah-rossiya-8sht-380149/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-11T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 0.0,
+            "commentsCount": 0,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "087067",
+            "title": "Салфетки влажные для интимной гигиены ЛЕНТА, 15шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Россия, 15 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/08/70/67/193836.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 21.29,
+                "integerPart": "21",
+                "fractionPart": "29"
+            },
+            "cardPrice": {
+                "value": 20.19,
+                "integerPart": "20",
+                "fractionPart": "19"
+            },
+            "skuUrl": "/product/salfetki-lenta-dintimnojj-gigieny-vlazh-rossiya-15sht-087067/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-10-20T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 0.0,
+            "commentsCount": 0,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Салфетки и средства для интимной гигиены",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s9366f910cc3095410613dac8a2144b3a"
+        },
+        {
+            "code": "366132",
+            "title": "Тампоны 365 ДНЕЙ Super без аппликатора, 8шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Германия, 8 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/36/61/32/250112.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 36.89,
+                "integerPart": "36",
+                "fractionPart": "89"
+            },
+            "cardPrice": {
+                "value": 34.99,
+                "integerPart": "34",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/tampony-365-dnejj-super-bapplikatora-germaniya-8sht-366132/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-07-14T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 5.0,
+            "commentsCount": 3,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "366133",
+            "title": "Тампоны 365 ДНЕЙ Normal без аппликатора, 8шт",
+            "brand": "365 ДНЕЙ",
+            "subTitle": "Германия, 8 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/36/61/33/235419.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 41.99,
+                "integerPart": "41",
+                "fractionPart": "99"
+            },
+            "cardPrice": {
+                "value": 39.89,
+                "integerPart": "39",
+                "fractionPart": "89"
+            },
+            "skuUrl": "/product/tampony-365-dnejj-normal-bapplikatora-germaniya-8sht-366133/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-12-11T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 0.0,
+            "commentsCount": 0,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "348399",
+            "title": "Гель для интимной гигиены ЛЕНТА, 250мл",
+            "brand": "ЛЕНТА",
+            "subTitle": "Россия, 250 мл",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/34/83/99/222792.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 43.99,
+                "integerPart": "43",
+                "fractionPart": "99"
+            },
+            "cardPrice": {
+                "value": 41.79,
+                "integerPart": "41",
+                "fractionPart": "79"
+            },
+            "skuUrl": "/product/gel-lenta-dintimnojj-gigieny-rossiya-250ml-348399/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 5.0,
+            "commentsCount": 1,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Салфетки и средства для интимной гигиены",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s9366f910cc3095410613dac8a2144b3a"
+        },
+        {
+            "code": "183769",
+            "title": "Тампоны ЛЕНТА Normal, 16шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Германия, 16 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/18/37/69/141737.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 91.89,
+                "integerPart": "91",
+                "fractionPart": "89"
+            },
+            "cardPrice": {
+                "value": 87.29,
+                "integerPart": "87",
+                "fractionPart": "29"
+            },
+            "skuUrl": "/product/tampony-lenta-normal-germaniya-16sht-183769/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-11-10T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 3.5,
+            "commentsCount": 2,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 2,
+            "stockValue": "enough",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "183770",
+            "title": "Тампоны ЛЕНТА Super, 16шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Германия, 16 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/18/37/70/119544.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 91.89,
+                "integerPart": "91",
+                "fractionPart": "89"
+            },
+            "cardPrice": {
+                "value": 87.29,
+                "integerPart": "87",
+                "fractionPart": "29"
+            },
+            "skuUrl": "/product/tampony-lenta-super-germaniya-16sht-183770/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-11-10T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 0.0,
+            "commentsCount": 0,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "142423",
+            "title": "Прокладки ежедневные ЛЕНТА Everyday Deo, 60шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Россия, 60 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/14/24/23/313840.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 95.69,
+                "integerPart": "95",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 90.89,
+                "integerPart": "90",
+                "fractionPart": "89"
+            },
+            "skuUrl": "/product/prokladki-lenta-everyday-deo-kitajj-60sht-142423/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 5.0,
+            "commentsCount": 3,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "280523",
+            "title": "Прокладки ежедневные ЛЕНТА Every day Multiform Deo, 60шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Россия, 60 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/28/05/23/223599_1.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 95.69,
+                "integerPart": "95",
+                "fractionPart": "69"
+            },
+            "cardPrice": {
+                "value": 90.89,
+                "integerPart": "90",
+                "fractionPart": "89"
+            },
+            "skuUrl": "/product/prokladki-lenta-every-day-multiform-deo-kitajj-60sht-280523/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 2.7,
+            "commentsCount": 3,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "274254",
+            "title": "Прокладки ЛЕНТА Ultra Dry Night, 12шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Россия, 12 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/27/42/54/223600.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 105.29,
+                "integerPart": "105",
+                "fractionPart": "29"
+            },
+            "cardPrice": {
+                "value": 99.99,
+                "integerPart": "99",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/prokladki-lenta-ultra-dry-night-belgiya-12sht-274254/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.7,
+            "commentsCount": 3,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "281498",
+            "title": "Прокладки ЛЕНТА Normal Ultra Dry, 20шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Россия, 20 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/28/14/98/223598_1.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 105.29,
+                "integerPart": "105",
+                "fractionPart": "29"
+            },
+            "cardPrice": {
+                "value": 99.99,
+                "integerPart": "99",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/prokladki-lenta-normal-ultra-dry-belgiya-20sht-281498/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 3.8,
+            "commentsCount": 4,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 3,
+            "stockValue": "many",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "352785",
+            "title": "Тампоны ЛЕНТА Normal с аппликатором, 16шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Германия, 16 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/35/27/85/314225.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 157.89,
+                "integerPart": "157",
+                "fractionPart": "89"
+            },
+            "cardPrice": {
+                "value": 149.99,
+                "integerPart": "149",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/tampony-lenta-normal-s-applikatorom-germaniya-16sht-352785/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 4.0,
+            "commentsCount": 4,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 1,
+            "stockValue": "few",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        },
+        {
+            "code": "352784",
+            "title": "Тампоны ЛЕНТА Super с аппликатором, 16шт",
+            "brand": "ЛЕНТА",
+            "subTitle": "Германия, 16 шт",
+            "description": null,
+            "imageUrl": "https://lenta.gcdn.co/globalassets/1/-/35/27/84/193877.png?preset=thumbnail",
+            "regularPrice": {
+                "value": 157.89,
+                "integerPart": "157",
+                "fractionPart": "89"
+            },
+            "cardPrice": {
+                "value": 149.99,
+                "integerPart": "149",
+                "fractionPart": "99"
+            },
+            "skuUrl": "/product/tampony-lenta-super-s-applikatorom-germaniya-16sht-352784/",
+            "quantity": "0",
+            "promotionType": 0,
+            "promoPercent": 0,
+            "promoStart": "2020-09-23T02:00:00Z",
+            "promoEnd": "9999-12-31T23:59:59Z",
+            "hasDiscount": false,
+            "isPromoForRegularPrice": false,
+            "isWeightProduct": false,
+            "averageRating": 0.0,
+            "commentsCount": 0,
+            "gaCategory": "Красота и здоровье/Женская интимная гигиена/Прокладки и тампоны",
+            "badges": [],
+            "isEcomEnabled": true,
+            "weightOptionsMax": [],
+            "defaultSelectedWeightOptionIndex": 0,
+            "kppPageUrl": "https://lenta.com/pokupatelyam/karta-pokupatelya/karta-postoyannogo-pokupatelya/",
+            "placeOutput": "Category",
+            "isInFavorites": false,
+            "isAvailableForOrder": true,
+            "subCategoryUrl": null,
+            "stock": 2,
+            "stockValue": "enough",
+            "isAvailableInStore": false,
+            "categoryId": "s96f17919f34b9e533dcf713be5edb941"
+        }
+    ],
+    "limit": 20,
+    "offset": 0,
+    "totalCount": 14,
+    "seoNode": {
+        "h1Title": "Женская интимная гигиена: 365 ДНЕЙ, ЛЕНТА",
+        "title": "Женская интимная гигиена: 365 ДНЕЙ, ЛЕНТА – купить в сети магазинов Лента.",
+        "description": "Женская интимная гигиена: 365 ДНЕЙ, ЛЕНТА  – официальный каталог товаров сети магазинов Лента. Каталог товаров с ценами, информацией о скидках. Собрать список покупок с актуальными ценами.",
+        "keywords": "– Лента гипермаркет,адреса магазинов,информация о скидках,каталог товаров с ценами,продажа,продукт,питание,косметика,одежда,обувь,канцтовары",
+        "xhtmlText": null,
+        "shortXhtmlText": null
+    },
+    "pricesRange": {
+        "minPrice": 13,
+        "maxPrice": 619
+    },
+    "filters": [
+        {
+            "isHidden": false,
+            "filterName": "BrandName",
+            "filterTranslatedName": "Бренд",
+            "filterValues": [
+                {
+                    "value": "365 ДНЕЙ",
+                    "transliteratedValue": "365-dnejj",
+                    "label": "365 ДНЕЙ",
+                    "count": 4
+                },
+                {
+                    "value": "ALWAYS",
+                    "transliteratedValue": "always",
+                    "label": "ALWAYS",
+                    "count": 36
+                },
+                {
+                    "value": "BELLA",
+                    "transliteratedValue": "bella",
+                    "label": "BELLA",
+                    "count": 15
+                },
+                {
+                    "value": "CAREFREE",
+                    "transliteratedValue": "carefree",
+                    "label": "CAREFREE",
+                    "count": 16
+                },
+                {
+                    "value": "CLIVEN",
+                    "transliteratedValue": "cliven",
+                    "label": "CLIVEN",
+                    "count": 1
+                },
+                {
+                    "value": "DISCREET",
+                    "transliteratedValue": "discreet",
+                    "label": "DISCREET",
+                    "count": 14
+                },
+                {
+                    "value": "ELIS",
+                    "transliteratedValue": "elis",
+                    "label": "ELIS",
+                    "count": 3
+                },
+                {
+                    "value": "EVO",
+                    "transliteratedValue": "evo",
+                    "label": "EVO",
+                    "count": 2
+                },
+                {
+                    "value": "FREEDOM",
+                    "transliteratedValue": "freedom",
+                    "label": "FREEDOM",
+                    "count": 1
+                },
+                {
+                    "value": "GREEN MAMA",
+                    "transliteratedValue": "green-mama",
+                    "label": "GREEN MAMA",
+                    "count": 1
+                },
+                {
+                    "value": "KOTEX",
+                    "transliteratedValue": "kotex",
+                    "label": "KOTEX",
+                    "count": 31
+                },
+                {
+                    "value": "LACTACYD",
+                    "transliteratedValue": "lactacyd",
+                    "label": "LACTACYD",
+                    "count": 7
+                },
+                {
+                    "value": "LAURIER",
+                    "transliteratedValue": "laurier",
+                    "label": "LAURIER",
+                    "count": 1
+                },
+                {
+                    "value": "LEVRANA",
+                    "transliteratedValue": "levrana",
+                    "label": "LEVRANA",
+                    "count": 1
+                },
+                {
+                    "value": "LIBRESSE",
+                    "transliteratedValue": "libresse",
+                    "label": "LIBRESSE",
+                    "count": 22
+                },
+                {
+                    "value": "NATURALIUM",
+                    "transliteratedValue": "naturalium",
+                    "label": "NATURALIUM",
+                    "count": 2
+                },
+                {
+                    "value": "NATURELLA",
+                    "transliteratedValue": "naturella",
+                    "label": "NATURELLA",
+                    "count": 27
+                },
+                {
+                    "value": "NIVEA",
+                    "transliteratedValue": "nivea",
+                    "label": "NIVEA",
+                    "count": 1
+                },
+                {
+                    "value": "NOVITA",
+                    "transliteratedValue": "novita",
+                    "label": "NOVITA",
+                    "count": 1
+                },
+                {
+                    "value": "O.B.",
+                    "transliteratedValue": "ob",
+                    "label": "O.B.",
+                    "count": 16
+                },
+                {
+                    "value": "OLA!",
+                    "transliteratedValue": "ola",
+                    "label": "OLA!",
+                    "count": 20
+                },
+                {
+                    "value": "PLANETA ORGANICA",
+                    "transliteratedValue": "planeta-organica",
+                    "label": "PLANETA ORGANICA",
+                    "count": 1
+                },
+                {
+                    "value": "SECRETDAY",
+                    "transliteratedValue": "secretday",
+                    "label": "SECRETDAY",
+                    "count": 6
+                },
+                {
+                    "value": "TAMPAX",
+                    "transliteratedValue": "tampax",
+                    "label": "TAMPAX",
+                    "count": 5
+                },
+                {
+                    "value": "ГИНОКОМФОРТ",
+                    "transliteratedValue": "ginokomfort",
+                    "label": "ГИНОКОМФОРТ",
+                    "count": 1
+                },
+                {
+                    "value": "КРАСНАЯ ЛИНИЯ",
+                    "transliteratedValue": "krasnaya-liniya",
+                    "label": "КРАСНАЯ ЛИНИЯ",
+                    "count": 2
+                },
+                {
+                    "value": "ЛЕДИ ВИЛШ",
+                    "transliteratedValue": "ledi-vilsh",
+                    "label": "ЛЕДИ ВИЛШ",
+                    "count": 2
+                },
+                {
+                    "value": "ЛЕНТА",
+                    "transliteratedValue": "lenta",
+                    "label": "ЛЕНТА",
+                    "count": 10
+                },
+                {
+                    "value": "ЧИСТАЯ ЛИНИЯ",
+                    "transliteratedValue": "chistaya-liniya",
+                    "label": "ЧИСТАЯ ЛИНИЯ",
+                    "count": 1
+                },
+                {
+                    "value": "Я САМАЯ",
+                    "transliteratedValue": "ya-samaya",
+                    "label": "Я САМАЯ",
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "isHidden": false,
+            "filterName": "Producer",
+            "filterTranslatedName": "Производитель",
+            "filterValues": [
+                {
+                    "value": "Athene Laboratories",
+                    "transliteratedValue": "athene-laboratories",
+                    "label": "Athene Laboratories",
+                    "count": 0
+                },
+                {
+                    "value": "Green Mama",
+                    "transliteratedValue": "green-mama",
+                    "label": "Green Mama",
+                    "count": 0
+                },
+                {
+                    "value": "Авангард ООО",
+                    "transliteratedValue": "avangard-ooo",
+                    "label": "Авангард ООО",
+                    "count": 1
+                },
+                {
+                    "value": "Аванта ООО",
+                    "transliteratedValue": "avanta-ooo",
+                    "label": "Аванта ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Байерсдорф ООО",
+                    "transliteratedValue": "bajjersdorf-ooo",
+                    "label": "Байерсдорф ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Белла Восток ООО",
+                    "transliteratedValue": "bella-vostok-ooo",
+                    "label": "Белла Восток ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Белла ООО",
+                    "transliteratedValue": "bella-ooo",
+                    "label": "Белла ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Вента ЗАО",
+                    "transliteratedValue": "venta-zao",
+                    "label": "Вента ЗАО",
+                    "count": 0
+                },
+                {
+                    "value": "Гигиена-Север ООО",
+                    "transliteratedValue": "gigiena-sever-ooo",
+                    "label": "Гигиена-Север ООО",
+                    "count": 0
+                },
+                {
+                    "value": "ГлаксоСмитКляйн Хелскер ЗАО",
+                    "transliteratedValue": "glaksosmitklyajjn-helsker-zao",
+                    "label": "ГлаксоСмитКляйн Хелскер ЗАО",
+                    "count": 0
+                },
+                {
+                    "value": "Джонсон&Джонсон ООО",
+                    "transliteratedValue": "dzhonsondzhonson-ooo",
+                    "label": "Джонсон&Джонсон ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Кимберли-Кларк ООО",
+                    "transliteratedValue": "kimberli-klark-ooo",
+                    "label": "Кимберли-Кларк ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Коттон Клаб",
+                    "transliteratedValue": "kotton-klab",
+                    "label": "Коттон Клаб",
+                    "count": 0
+                },
+                {
+                    "value": "Леотон Фарма ООО",
+                    "transliteratedValue": "leoton-farma-ooo",
+                    "label": "Леотон Фарма ООО",
+                    "count": 1
+                },
+                {
+                    "value": "МедПол ООО",
+                    "transliteratedValue": "medpol-ooo",
+                    "label": "МедПол ООО",
+                    "count": 2
+                },
+                {
+                    "value": "Онтэкс РУ ООО",
+                    "transliteratedValue": "onteks-ru-ooo",
+                    "label": "Онтэкс РУ ООО",
+                    "count": 9
+                },
+                {
+                    "value": "Проктер энд Гэмбл ООО",
+                    "transliteratedValue": "prokter-end-gembl-ooo",
+                    "label": "Проктер энд Гэмбл ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Русская Косметика ООО",
+                    "transliteratedValue": "russkaya-kosmetika-ooo",
+                    "label": "Русская Косметика ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Северная Жемчужина",
+                    "transliteratedValue": "severnaya-zhemchuzhina",
+                    "label": "Северная Жемчужина",
+                    "count": 0
+                },
+                {
+                    "value": "Хайджин Кинетикс 000",
+                    "transliteratedValue": "hajjdzhin-kinetiks-000",
+                    "label": "Хайджин Кинетикс 000",
+                    "count": 0
+                },
+                {
+                    "value": "Хайджин Продактс Раша Эс.Си.Эй ООО",
+                    "transliteratedValue": "hajjdzhin-prodakts-rasha-essiejj-ooo",
+                    "label": "Хайджин Продактс Раша Эс.Си.Эй ООО",
+                    "count": 0
+                },
+                {
+                    "value": "Эфти Косметикс ЗАО",
+                    "transliteratedValue": "efti-kosmetiks-zao",
+                    "label": "Эфти Косметикс ЗАО",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "isHidden": false,
+            "filterName": "ProducersCountry",
+            "filterTranslatedName": "Страна производителя",
+            "filterValues": [
+                {
+                    "value": "Беларусь",
+                    "transliteratedValue": "belarus",
+                    "label": "Беларусь",
+                    "count": 0
+                },
+                {
+                    "value": "Бельгия",
+                    "transliteratedValue": "belgiya",
+                    "label": "Бельгия",
+                    "count": 0
+                },
+                {
+                    "value": "Венгрия",
+                    "transliteratedValue": "vengriya",
+                    "label": "Венгрия",
+                    "count": 0
+                },
+                {
+                    "value": "Германия",
+                    "transliteratedValue": "germaniya",
+                    "label": "Германия",
+                    "count": 6
+                },
+                {
+                    "value": "Италия",
+                    "transliteratedValue": "italiya",
+                    "label": "Италия",
+                    "count": 0
+                },
+                {
+                    "value": "Китай",
+                    "transliteratedValue": "kitajj",
+                    "label": "Китай",
+                    "count": 0
+                },
+                {
+                    "value": "Корея",
+                    "transliteratedValue": "koreya",
+                    "label": "Корея",
+                    "count": 0
+                },
+                {
+                    "value": "Польша",
+                    "transliteratedValue": "polsha",
+                    "label": "Польша",
+                    "count": 0
+                },
+                {
+                    "value": "Россия",
+                    "transliteratedValue": "rossiya",
+                    "label": "Россия",
+                    "count": 8
+                },
+                {
+                    "value": "Словакия",
+                    "transliteratedValue": "slovakiya",
+                    "label": "Словакия",
+                    "count": 0
+                },
+                {
+                    "value": "Тайвань",
+                    "transliteratedValue": "tajjvan",
+                    "label": "Тайвань",
+                    "count": 0
+                },
+                {
+                    "value": "Таиланд",
+                    "transliteratedValue": "tailand",
+                    "label": "Таиланд",
+                    "count": 0
+                },
+                {
+                    "value": "Франция",
+                    "transliteratedValue": "franciya",
+                    "label": "Франция",
+                    "count": 0
+                },
+                {
+                    "value": "Чехия",
+                    "transliteratedValue": "chehiya",
+                    "label": "Чехия",
+                    "count": 0
+                },
+                {
+                    "value": "Япония",
+                    "transliteratedValue": "yaponiya",
+                    "label": "Япония",
+                    "count": 0
+                }
+            ]
+        }
+    ]
+}
